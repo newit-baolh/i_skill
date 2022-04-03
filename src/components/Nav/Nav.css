@@ -1,0 +1,11 @@
+.navbar_top{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+
+}
+.navbar_top h1 {
+    font-size: 20px;
+    font-weight: bold;
+}
